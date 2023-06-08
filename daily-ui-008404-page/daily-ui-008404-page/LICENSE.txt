@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2023 Rafaela Lucas (https://codepen.io/rafaelavlucas/pen/NWWQNjZ)
+Copyright (c) 2023 kunal kumar (https://codepen.io/kunal7216/pen/YzRPVrdZ)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
